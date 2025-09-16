@@ -5,7 +5,7 @@ Paso 01: Instalar Terraform
 Usamos Docker para poder realizar los pasos siguientes, en visual code creamos los archivos Terraform
 luego ejecutamos los codigos y nos dio este resultado
 
-<img width="1241" height="691" alt="image" src="https://github.com/user-attachments/assets/6fd4003f-fe07-4a4d-b2d3-cedee624e9b2" />
+src=["https://github.com/user-attachments/assets/6fd4003f-fe07-4a4d-b2d3-cedee624e9b2" />](https://github.com/WILLIAM-HENRY-FLORES-JUAREZ/Laboratorio_Xiomara.git)
 
 
 # Integrantes:
